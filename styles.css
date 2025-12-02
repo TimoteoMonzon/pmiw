@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Yesteryear&display=swap');
+
+body {
+    background-image: url('https://www.vocaeditorial.com/blog/media/el-traje-nuevo-del-emperador-1175x671.jpg');
+}
+
+h1, a {
+    font-family: "Yesteryear", cursive;
+}
